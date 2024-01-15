@@ -37,7 +37,6 @@
 <br>
 <br>
 <br>
-
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haticetheengineer&show_icons=true&locale=en&layout=compact" alt="haticetheengineer" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haticetheengineer&show_icons=true&locale=en" alt="haticetheengineer" /></p>
