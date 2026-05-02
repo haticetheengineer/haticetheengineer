@@ -32,13 +32,15 @@
 - 📫 Reach me at **hhatice.tekis@gmail.com**
 
 ---
-### 📄 Publications (SCI-Indexed)
+### 📄 Publications
 
 1. **Tekiş, H., Zirek, T., & Taşsöker, M.** (2025). *Comparative analysis of YOLO variants for dental implant brand identification.* **Scientific Reports**, 15, 33304. [DOI](https://doi.org/10.1038/s41598-025-15383-0) — *SCI-E Q1*
 
 2. **Tekiş, H., Zirek, T., & Taşsöker, M.** (2026). *AI-Powered Detection of Dental Anatomy: A YOLO-Based Approach.* **Oral Surgery, Oral Medicine, Oral Pathology and Oral Radiology**. [DOI](https://doi.org/10.1016/j.oooo.2025.12.011) — *SCI-E Q2*
 
 3. **Tassoker, M., Zirek, T., Tekiş, H., & Karakuş, R.** (2025). *Oral Health Profile In A Turkish Subpopulation Aged 18+.* **International Dental Journal**, 75, 104464. [DOI](https://doi.org/10.1016/j.identj.2025.104464) — *SCI-E*
+
+4. **Işık, B. K., Tekiş, H., & Doğan, F.** (2025). Evaluation of the performance of AI-powered bots in the Turkish Dentistry Specialty Examination. Current Research in Dental Sciences. - *(Accepted / In Press, TR Index & Scopus)*
 
 ---
 
@@ -52,7 +54,7 @@
 | 🛠️ AI Applications *(Yapay Zeka Uygulamaları)* | BPO228 / BPU278 | Associate Degree |
 | 📊 Data Analysis *(Veri Analizi)* | BPO225 | Associate Degree |
 | 🔒 Introduction to Information Security *(Bilgi Güvenliğine Giriş)* | BPO237 / BPU291 | Associate Degree |
-| 🌐 Back-end Development with Node.js | BPO213 / BPU283 | Associate Degree |
+| 🌐 Back-end Development with Node.js *(Node.js ile Arkayüz Geliştirme)* | BPO213 / BPU283 | Associate Degree |
 ---
 
 ### 🌐 Connect with Me
