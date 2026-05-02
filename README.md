@@ -91,8 +91,8 @@
 
 ### 📊 GitHub Stats
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=haticetheengineer&show_icons=true&locale=en&layout=compact" alt="haticetheengineer" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=haticetheengineer&show_icons=true&locale=en" alt="haticetheengineer" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=haticetheengineer&" alt="haticetheengineer" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=haticetheengineer&show_icons=true&locale=en&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=haticetheengineer&show_icons=true&locale=en" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=haticetheengineer&" height="150" />
+</p>
