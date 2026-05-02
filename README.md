@@ -35,15 +35,15 @@
 
 ### 📚 Courses I Teach
 
-| Course | Level |
-|--------|-------|
-| 🤖 AI Literacy *(Yapay Zeka Okuryazarlığı)* | Undergraduate |
-| 🧠 Fundamentals of Artificial Intelligence *(Temel Yapay Zeka)* | Undergraduate |
-| 📊 Data Analysis *(Veri Analizi)* | Undergraduate |
-| 🛠️ AI Applications *(Yapay Zeka Uygulamaları)* | Undergraduate |
-| 🔒 Introduction to Information Security | Undergraduate |
-| 🌐 Back-end Development with Node.js | Undergraduate |
-| 💻 Fundamentals of Information Technologies | Undergraduate |
+| Course | Code | Level |
+|--------|------|-------|
+| 🤖 AI Literacy *(Yapay Zeka Okuryazarlığı)* | HAY412 | Undergraduate |
+| 🧠 Fundamentals of Artificial Intelligence *(Temel Yapay Zeka)* | TYZ171 | Undergraduate |
+| 💻 Fundamentals of Information Technologies *(Temel Bilgi Teknolojileri)* | TEB161 | Associate Degree |
+| 🛠️ AI Applications *(Yapay Zeka Uygulamaları)* | BPO228 / BPU278 | Associate Degree |
+| 📊 Data Analysis *(Veri Analizi)* | BPO225 | Associate Degree |
+| 🔒 Introduction to Information Security *(Bilgi Güvenliğine Giriş)* | BPO237 / BPU291 | Associate Degree |
+| 🌐 Back-end Development with Node.js | BPO213 / BPU283 | Associate Degree |
 
 ---
 
@@ -60,16 +60,16 @@
 ### 🌐 Connect with Me
 
 <p align="left">
-<a href="https://codepen.io/haticetheengineer-gmail-com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="haticetheengineer-gmail-com" height="30" width="40" /></a>
-<a href="https://dev.to/haticetheengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="haticetheengineer" height="30" width="40" /></a>
-<a href="https://twitter.com/itsjusthtc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="itsjusthtc" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/haticetekis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="haticetekis" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/haticetheengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="haticetheengineer" height="30" width="40" /></a>
-<a href="https://kaggle.com/haticetheengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="haticetheengineer" height="30" width="40" /></a>
-<a href="https://instagram.com/haticetheengineer.ai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="haticetheengineer.ai" height="30" width="40" /></a>
-<a href="https://hashnode.com/@haticetheengineer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@haticetheengineer" height="30" width="40" /></a>
-<a href="https://medium.com/@hhatice.tekis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@hhatice.tekis" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/haticetheengine1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="haticetheengine1" height="30" width="40" /></a>
+<a href="https://codepen.io/haticetheengineer-gmail-com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" /></a>
+<a href="https://dev.to/haticetheengineer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" width="40" /></a>
+<a href="https://twitter.com/itsjusthtc" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/haticetekis" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/haticetheengineer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a>
+<a href="https://kaggle.com/haticetheengineer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a>
+<a href="https://instagram.com/haticetheengineer.ai" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a>
+<a href="https://hashnode.com/@haticetheengineer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hashnode" height="30" width="40" /></a>
+<a href="https://medium.com/@hhatice.tekis" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/haticetheengine1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a>
 </p>
 
 ---
@@ -108,15 +108,23 @@
 
 ---
 
+### 🗣️ Languages
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Turkish-Native-red?style=flat-square" />
+  <img src="https://img.shields.io/badge/English-Upper_Intermediate_(YÖKDİL_80)-blue?style=flat-square" />
+  <img src="https://img.shields.io/badge/German-Beginner_(A2)-yellow?style=flat-square" />
+</p>
+
+---
+
 ### ☕ Support
 
 <p>
   <a href="https://www.buymeacoffee.com/haticeiscoding">
-    <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="haticeiscoding" />
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="haticeiscoding" />
   </a>
 </p>
-
-<br><br><br>
 
 ---
 
