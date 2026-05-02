@@ -59,7 +59,27 @@
 
 ### 🌐 Connect with Me
 
-<p align="left"><a href="https://codepen.io/haticetheengineer-gmail-com" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" /></a> <a href="https://dev.to/haticetheengineer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" height="30" width="40" /></a> <a href="https://twitter.com/itsjusthtc" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter" height="30" width="40" /></a> <a href="https://linkedin.com/in/haticetekis" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> <a href="https://stackoverflow.com/users/haticetheengineer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="stackoverflow" height="30" width="40" /></a> <a href="https://kaggle.com/haticetheengineer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kaggle" height="30" width="40" /></a> <a href="https://instagram.com/haticetheengineer.ai" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" height="30" width="40" /></a> <a href="https://hashnode.com/@haticetheengineer" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="hashnode" height="30" width="40" /></a> <a href="https://medium.com/@hhatice.tekis" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="medium" height="30" width="40" /></a> <a href="https://www.hackerrank.com/haticetheengine1" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a></p>
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://codepen.io/haticetheengineer-gmail-com" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://dev.to/haticetheengineer" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://twitter.com/itsjusthtc" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://linkedin.com/in/haticetekis" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/haticetheengineer" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
+  </a>
+</p>
 
 ---
 
