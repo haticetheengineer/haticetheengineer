@@ -23,7 +23,6 @@
 ### 👩‍🏫 About Me
 
 - 🏛️ **Lecturer** at Kapadokya University — teaching AI & CS courses
-- 🎓 **Ph.D. Student** in Computer Engineering at Eskişehir Technical University *(2025 – present)*
 - 🦷 **Researcher** focused on **AI in Dentistry** — Computer Vision for dental diagnostics
 - 🔭 Currently working on **AI-powered dental anatomy detection** using YOLO-based deep learning
 - 🌱 Currently learning **MLOps and JAX**
