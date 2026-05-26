@@ -12,12 +12,6 @@
   </a>
 </p>
 
-<p align="left">
-  <a href="https://twitter.com/itsjusthtc" target="blank">
-    <img src="https://img.shields.io/twitter/follow/itsjusthtc?logo=twitter&style=for-the-badge" alt="itsjusthtc" />
-  </a>
-</p>
-
 ### 🌐 Connect with Me
 
 <p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
