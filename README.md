@@ -45,11 +45,13 @@
 - 📫 Reach me at **hhatice.tekis@gmail.com**
 
 ---
+
 ## 📄 M.Sc. Thesis
 **Innovative Standalone Massive Channel Temperature Monitoring System for CMS Detector**  
 Tekiş, H. — Supervisors: Tsirou, A. (CERN) & Yumusak, S.  
 CERN-THESIS-2021-135 · Karatay University, 2021  
 🔗 [CERN Repository](https://repository.cern/records/qmjep-vyj82)
+
 ---
 ### 📄 Publications
 
