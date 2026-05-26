@@ -28,6 +28,9 @@
   <a href="https://orcid.org/0000-0003-2568-1466" target="blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="30" width="40" />
   </a>
+  <a href="https://scholar.google.com/citations?user=cVaLaU8AAAAJ&hl=tr" target="blank">
+    <img src="https://cdn.simpleicons.org/googlescholar" height="30" width="40" />
+  </a>
 </p>
 
 
