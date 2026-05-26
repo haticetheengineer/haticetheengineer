@@ -50,7 +50,7 @@
 Tekiş, H. — Supervisors: Tsirou, A. (CERN) & Yumusak, S.  
 CERN-THESIS-2021-135 · Karatay University, 2021  
 🔗 [CERN Repository](https://repository.cern/records/qmjep-vyj82)
-
+---
 ### 📄 Publications
 
 1. **Tekiş, H., Zirek, T., & Taşsöker, M.** (2025). *Comparative analysis of YOLO variants for dental implant brand identification.* **Scientific Reports**, 15, 33304. [DOI](https://doi.org/10.1038/s41598-025-15383-0) — *SCI-E Q1*
