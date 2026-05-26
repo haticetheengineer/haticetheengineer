@@ -19,7 +19,7 @@
   </a>
 
   <a href="https://twitter.com/itsjusthtc" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/57/X_logo_2023_%28white%29.svg" height="30" width="40" />
   </a>
 
   <a href="https://linkedin.com/in/haticetekis" target="blank">
@@ -34,7 +34,7 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="30" width="40" />
   </a>
 </p>
----
+
 
 ### 👩‍🏫 About Me
 
