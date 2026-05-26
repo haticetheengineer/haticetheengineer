@@ -18,6 +18,33 @@
   </a>
 </p>
 
+### 🌐 Connect with Me
+
+<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <a href="https://codepen.io/haticetheengineer-gmail-com" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://dev.to/haticetheengineer" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://twitter.com/itsjusthtc" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://linkedin.com/in/haticetekis" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://stackoverflow.com/users/haticetheengineer" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
+  </a>
+
+  <a href="https://orcid.org/0000-0003-2568-1466" target="blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="30" width="40" />
+  </a>
+</p>
 ---
 
 ### 👩‍🏫 About Me
@@ -62,33 +89,6 @@ CERN-THESIS-2021-135 · Karatay University, 2021
 | 🌐 Back-end Development with Node.js *(Node.js ile Arkayüz Geliştirme)* | BPO213 / BPU283 | Associate Degree |
 ---
 
-### 🌐 Connect with Me
-
-<p align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <a href="https://codepen.io/haticetheengineer-gmail-com" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://dev.to/haticetheengineer" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://twitter.com/itsjusthtc" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://linkedin.com/in/haticetekis" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://stackoverflow.com/users/haticetheengineer" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" height="30" width="40" />
-  </a>
-
-  <a href="https://orcid.org/0000-0003-2568-1466" target="blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/06/ORCID_iD.svg" height="30" width="40" />
-  </a>
-</p>
 
 ---
 
